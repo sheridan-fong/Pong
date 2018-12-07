@@ -1,8 +1,3 @@
-// my first swing animation game
-// Using KeyListener and MouseMotionListener 
-// Created By: Sheridan Fong
-// Created On: December 7th 2018
-
 import javax.swing.*; 
 import java.awt.*; 
 import java.awt.event.*; 
