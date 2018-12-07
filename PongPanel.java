@@ -31,7 +31,7 @@ public class PongPanel extends JPanel{
 		g.fillRect(0,0,500,250);
 		
 		// repaints left side of panel 
-		g.setColor(Color.WHITE); 
+		g.setColor(Color.YELLOW); 
 		g.fillRect(250,0,5,500); 
 		
 		g.fillRect(40, intRectY, 10,30); 
