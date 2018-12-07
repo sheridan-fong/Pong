@@ -48,6 +48,7 @@ public class pong implements ActionListener, KeyListener, MouseMotionListener, M
 	
 	}
 	
+	// This is an overridden method for MouseMotionListener
 	// right panel controlled with mouse
 	
 	// mouse stuff
